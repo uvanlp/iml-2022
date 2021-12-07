@@ -1,4 +1,4 @@
-# CS 4501/6501 Interpretable Machine Learning
+<!--- # CS 4501/6501 Interpretable Machine Learning --->
 
 ## 1. Course Information
 
