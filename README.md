@@ -2,7 +2,7 @@
 
 ## 1. Course Information
 
-- Instructors: [Hanjie Chen](http://www.cs.virginia.edu/~hc9mx/), [Yangfeng Ji](https://yangfengji.net/)
+- Instructors: [Hanjie Chen](https://www.cs.virginia.edu/~hc9mx/), [Yangfeng Ji](https://yangfengji.net/)
 - Location: TBA
 - Time: TBA
 - Office hour: TBA
