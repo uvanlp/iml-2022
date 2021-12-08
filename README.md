@@ -31,7 +31,9 @@ For each week, we have one lecture (given by the instructors) and one class for 
 
 ### 2.3 Prerequisites
 
-Students are expected to be familiar with basic linear algebra, probability, and machine learning (e.g., CS 4774). Students are also expected to have programming and software engineering skills to work with datasets using Python (e.g., CS 111x).
+- **Machine Learning**: Students are expected to have machine learning background, for example, by taking one of our machine learning classes (CS 4774 or CS 6316).
+- **Programming**: Students are also expected to have programming and software engineering skills to work with machine packages using Python (e.g., Sklearn, PyTorch, Tensorflow).
+
 
 ### 2.4 Textbook/Materials
 
