@@ -17,10 +17,12 @@ Machine learning models have achieved remarkable performance in a wide range of 
 This course will include but not limit to the following contents: 
 
 - Background of interpretable machine learning
-- Advanced techniques in exploring the interpretability of machine learning models
-	- Post-hoc explanations (white-box explanations, black-box explanations, counterfactual explanations, saliency maps)
-	- Different classes of interpretable models (prototype based approaches, sparse linear models, rule based techniques, generalized additive models)
-	- Connections between model interpretability and other properties, such as robustness, uncertainty, and fairness
+  - Interpretability in machine learning
+  - Brief introduction of deep learning
+- Techniques in exploring the interpretability of machine learning models
+  - Different classes of interpretable models (e.g., prototype based approaches, sparse linear models, rule based techniques, generalized additive models)
+  - Post-hoc explanations (e.g., white-box explanations, black-box explanations, counterfactual explanations, saliency maps)
+  - Connections between model interpretability and other properties, such as robustness, uncertainty, and fairness
 - Implementation of model interpretability in real-world applications, including natural language processing, computer vision, healthcare, etc.
 
 
