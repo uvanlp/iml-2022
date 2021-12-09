@@ -3,8 +3,8 @@
 ## 1. Course Information
 
 - Instructors: [Hanjie Chen](https://www.cs.virginia.edu/~hc9mx/), [Yangfeng Ji](https://yangfengji.net/)
-- Location: TBA
-- Time: TBA
+- Location: Rice 340
+- Time: Tuesday and Thursday 11 AM - 12:15 PM
 - Office hour: TBA
 
 ## 2. Course Description
