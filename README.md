@@ -41,6 +41,7 @@ For each week, we have one lecture (given by the instructors) and one class for 
 
 - Textbook 
 	- Christoph Molnar, [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/), 2021
+	- Kush R. Varshney, [Trustworthy Machine Learning](http://trustworthymachinelearning.com/trustworthymachinelearning.pdf), 2021
 - Selected readings (More readings will be added)
 	- Du, Mengnan, Ninghao Liu, and Xia Hu. [Techniques for interpretable machine learning](https://arxiv.org/abs/1808.00033). Communications of the ACM 63.1 (2019): 68-77.
 	- Murdoch, W. James, et al. [Definitions, methods, and applications in interpretable machine learning](https://www.pnas.org/content/116/44/22071). Proceedings of the National Academy of Sciences 116.44 (2019): 22071-22080.
