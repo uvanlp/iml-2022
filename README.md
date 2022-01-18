@@ -56,6 +56,20 @@ This course will include but not limit to the following contents:
 	- Murdoch, W. James, et al. [Definitions, methods, and applications in interpretable machine learning](https://www.pnas.org/content/116/44/22071). Proceedings of the National Academy of Sciences 116.44 (2019): 22071-22080.
 	- Lipton, Zachary C. [The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery](https://dl.acm.org/doi/10.1145/3236386.3241340). Queue 16.3 (2018): 31-57.
 
+## 3. Assignments and Evaluation Schemes
+- Application-oriented (**for undergraduates**)
+  - 3 programming projects (45%)
+  - 1 paper presentation (15%)
+  - 10 paper summaries (10%)
+  - Final project (20%) 
+  - In-class discussion (7%) + attendance (3%)
+- Research-oriented (**for graduates**)
+  - 2 programming projects (30%)
+  - 2 paper presentation (30%)
+  - 10 paper summaries (10%)
+  - Final project (20%) 
+  - In-class discussion (7%) + attendance (3%)
+
 ## Acknowledgement
 
 Hanjie Chen is supported by the UVa Engineering [Graduate Teaching Internship Program (GTI)](https://engineering.virginia.edu/graduate-teaching-internship-gti-program) for designing and teaching this course. 
