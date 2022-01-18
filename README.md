@@ -12,6 +12,7 @@
   - Yangfeng Ji: TBD
   - Wanyu Du: TBD
 - [Schedule](Schedule.md)
+- [Campuswire](https://campuswire.com/) for online discussion. By the time of our first class, students registered for this course should all receive an invitation from Campuswire. Please let the instructors know if you haven’t gotten one.
 
 ## 2. Course Description
 
