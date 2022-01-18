@@ -9,6 +9,8 @@
 - TA: [Wanyu Du](https://wyu-du.github.io/)
 - Office hour:
   - Hanjie Chen: Thursday 2:00 PM - 3:00 PM, Location: [Zoom](https://virginia.zoom.us/j/95861036968?pwd=TW43TStwRjdDVDE3YVlsRjRsVGwrdz09)
+  - Yangfeng Ji: TBD
+  - Wanyu Du: TBD
 
 ## 2. Course Description
 
