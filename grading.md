@@ -1,6 +1,7 @@
 # Grading Policy
 
 ## 1. Mapping Betweeen Points and Letter Grade
+
 | Point range | Letter grade|
 |   :----:    |    :----:   |
 | [98 100]    |     A+      |
@@ -16,12 +17,18 @@
 
 
 ## 2. Late Penalty
-Homework submission will be accepted up to 72 hours late, with 20% deduction per 24 hours on the points as a penalty.
+Homework submission will be accepted up to 48 hours late, with 20% deduction per 24 hours on the points as a penalty.
 
-For example
+| Late time (hours)| Penalty|
+|   :----:    |    :----:   |
+|  (0, 24]    |     20%     |
+| (24, 48]    |     40%     |
 
-Deadline: August 30th, 11:59 PM
-Homework submission timestamp: September 1st, 11:00 AM (<= 48 hours)
-Original points a student got: 7 points
-Actual point the student have: 7 x (1 - 40%) = 4.2 points
+
+**For example**
+- Deadline: Feb. 8th, 11:59 PM
+- Homework submission timestamp: Feb. 10th, 9:00 AM (<= 48 hours)
+- Original points a student got: 10 points
+- Actual point the student have: 10 x (1 - 40%) = 6 points
+
 It is usually better if students just turn in what they have in time.
