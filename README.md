@@ -27,7 +27,7 @@ This course will include but not limit to the following contents:
   - Brief introduction of deep learning
 - Techniques in exploring the interpretability of machine learning models
   - Different classes of interpretable models (e.g., prototype based approaches, sparse linear models, rule based techniques, generalized additive models)
-  - Post-hoc explanations (e.g., white-box explanations, black-box explanations, counterfactual explanations, saliency maps)
+  - Post-hoc explanations (e.g., white-box explanations, black-box explanations, saliency maps)
   - Connections between model interpretability and other properties, such as robustness, uncertainty, and fairness
 - Implementation of model interpretability in real-world applications, including natural language processing, computer vision, healthcare, etc.
 
