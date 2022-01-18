@@ -11,12 +11,11 @@
   - Hanjie Chen: Thursday 2:00 PM - 3:00 PM, Location: [Zoom](https://virginia.zoom.us/j/95861036968?pwd=TW43TStwRjdDVDE3YVlsRjRsVGwrdz09)
   - Yangfeng Ji: TBD
   - Wanyu Du: TBD
+- [Schedule](Schedule.md)
 
 ## 2. Course Description
 
 Machine learning models have achieved remarkable performance in a wide range of AI fields, such as Natural Language Processing and Computer Vision. However, the lack of interpretability of machine learning models raises concerns regarding the trustworthiness and reliability of their predictions. This problem blocks their applications in the real world, especially in high-stake scenarios, such as healthcare, economy and criminal justice. The goal of this course is to let students get familiar with the emerging problem in machine learning and recent advances in interpretable and explainable AI.
-
-### 2.0 [Schedule](Schedule.md)
 
 ### 2.1 Topics
 
