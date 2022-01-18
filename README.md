@@ -4,7 +4,7 @@
 
 - Instructors: [Hanjie Chen](https://www.cs.virginia.edu/~hc9mx/), [Yangfeng Ji](https://yangfengji.net/)
 - Semester: Spring 2022
-- Location: Rice 340
+- Location: Rice Hall 340
 - Time: Tuesday and Thursday 11 AM - 12:15 PM
 - TA: [Wanyu Du](https://wyu-du.github.io/)
 - Office hours:
@@ -34,13 +34,16 @@ This course will include but not limit to the following contents:
 
 ### 2.2 Format
 
-For each week, we have one lecture (given by the instructors) and one class for paper discussion (led by the instructors, start from the 2nd week)
+- Hybrid: lectures will be given in person at Rice Hall 340 and also streamed and recorded on Zoom. Students can find the Zoom link on Collab.
+- From Week 4: one lecture + one discussion per week
 
 
 ### 2.3 Prerequisites
 
 - **Machine Learning**: Students are expected to have machine learning background, for example, by taking one of our machine learning classes (CS 4774 or CS 6316).
 - **Programming**: Students are also expected to have programming and software engineering skills to work with machine packages using Python (e.g., Sklearn, PyTorch, Tensorflow).
+- **Calculus and Linear Algebra**: Multivariable derivatives, matrix/vector notations and operations; singular value decomposition, etc.
+- **Probability and Statistics**: Mean and variance, multinomial distribution, conditional dependence, maximum likelihood estimation, Bayes theorem, etc.
 
 
 ### 2.4 Textbook/Materials
