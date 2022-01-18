@@ -70,6 +70,10 @@ This course will include but not limit to the following contents:
   - Final project (20%) 
   - In-class discussion (7%) + attendance (3%)
 
+## 4. Additional Information
+- Grading policy
+- Honor Code and Other Related Statements
+
 ## Acknowledgement
 
 Hanjie Chen is supported by the UVa Engineering [Graduate Teaching Internship Program (GTI)](https://engineering.virginia.edu/graduate-teaching-internship-gti-program) for designing and teaching this course. 
