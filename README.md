@@ -3,9 +3,12 @@
 ## 1. Course Information
 
 - Instructors: [Hanjie Chen](https://www.cs.virginia.edu/~hc9mx/), [Yangfeng Ji](https://yangfengji.net/)
+- Semester: Spring 2022
 - Location: Rice 340
 - Time: Tuesday and Thursday 11 AM - 12:15 PM
-- Office hour: TBA
+- TA: [Wanyu Du](https://wyu-du.github.io/)
+- Office hour:
+  - Hanjie Chen: Thursday 2:00 PM - 3:00 PM, Location: [Zoom](https://virginia.zoom.us/j/95861036968?pwd=TW43TStwRjdDVDE3YVlsRjRsVGwrdz09)
 
 ## 2. Course Description
 
