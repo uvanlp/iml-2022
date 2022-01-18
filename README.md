@@ -71,7 +71,7 @@ This course will include but not limit to the following contents:
   - In-class discussion (7%) + attendance (3%)
 
 ## 4. Additional Information
-- Grading policy
+- [Grading policy](grading.md)
 - Honor Code and Other Related Statements
 
 ## Acknowledgement
