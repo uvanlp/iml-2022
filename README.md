@@ -58,13 +58,13 @@ This course will include but not limit to the following contents:
 
 ## 3. Assignments and Evaluation Schemes
 - Application-oriented (**for undergraduates**)
-  - 3 programming projects (45%)
+  - 3 programming assignments (45%)
   - 1 paper presentation (15%)
   - 10 paper summaries (10%)
   - Final project (20%) 
   - In-class discussion (7%) + attendance (3%)
 - Research-oriented (**for graduates**)
-  - 2 programming projects (30%)
+  - 2 programming assignments (30%)
   - 2 paper presentation (30%)
   - 10 paper summaries (10%)
   - Final project (20%) 
