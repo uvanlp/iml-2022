@@ -17,7 +17,7 @@
 
 
 ## 2. Late Penalty
-Homework submission will be accepted up to 48 hours late, with 20% deduction per 24 hours on the points as a penalty.
+Homework submission will be accepted up to **48 hours** late, with 20% deduction per 24 hours on the points as a penalty.
 
 | Late time (hours)| Penalty|
 |   :----:    |    :----:   |
