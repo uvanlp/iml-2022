@@ -72,7 +72,7 @@ This course will include but not limit to the following contents:
 
 ## 4. Additional Information
 - [Grading policy](grading.md)
-- Honor Code and Other Related Statements
+- [Honor Code and Other Related Statements](statement.md)
 
 ## Acknowledgement
 
