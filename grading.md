@@ -28,7 +28,7 @@ Homework submission will be accepted up to 48 hours late, with 20% deduction per
 **For example**
 - Deadline: Feb. 8th, 11:59 PM
 - Homework submission timestamp: Feb. 10th, 9:00 AM (<= 48 hours)
-- Original points a student got: 10 points
-- Actual point the student have: 10 x (1 - 40%) = 6 points
+- Original points: 10 points
+- Actual points: 10 x (1 - 40%) = 6 points
 
 It is usually better if students just turn in what they have in time.
