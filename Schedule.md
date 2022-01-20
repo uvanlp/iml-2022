@@ -2,7 +2,7 @@
 
 #### Week 1: Jan. 20
 - Topics: Course overview
-- Course Materials:
+- Course Materials: [slides](slides/IML_1.pdf)
 
 #### Week 2: Jan. 25, 27
 - Topics: Introduction to interpretability, Interpretable generalized additive models (GAMs)
