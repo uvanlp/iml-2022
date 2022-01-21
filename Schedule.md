@@ -56,5 +56,5 @@
 #### Week 15: Apr. 26, 28
 - Paper Discussion
 
-#### Week 16: Apr. 12, 14
+#### Week 16: May 3
 - Final project presentation
