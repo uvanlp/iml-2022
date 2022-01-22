@@ -65,7 +65,7 @@ This course will include but not limit to the following contents:
   - In-class discussion (7%) + attendance (3%)
 - Research-oriented (**for graduates**)
   - 2 programming assignments (30%)
-  - 2 paper presentation2 (30%)
+  - 2 paper presentations (30%)
   - 10 paper summaries (10%)
   - Final project (20%) 
   - In-class discussion (7%) + attendance (3%)
