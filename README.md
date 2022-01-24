@@ -10,7 +10,7 @@
 - Office hours:
   - Hanjie Chen: Thursday 2:00 PM - 3:00 PM, Location: [Zoom](https://virginia.zoom.us/j/95861036968?pwd=TW43TStwRjdDVDE3YVlsRjRsVGwrdz09)
   - Yangfeng Ji: TBD
-  - Wanyu Du: TBD
+  - Wanyu Du: Tuesday 3:00 PM - 4:00 PM, Location: [Zoom](https://virginia.zoom.us/j/6076330189)
 - [Schedule](Schedule.md)
 - [Campuswire](https://campuswire.com/) for online discussion. By the time of our first class, students registered for this course should all receive an invitation from Campuswire. Please let the instructors know if you haven’t gotten one.
 
