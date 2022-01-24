@@ -9,7 +9,7 @@
 - TA: [Wanyu Du](https://wyu-du.github.io/)
 - Office hours:
   - Hanjie Chen: Thursday 2:00 PM - 3:00 PM, Location: [Zoom](https://virginia.zoom.us/j/95861036968?pwd=TW43TStwRjdDVDE3YVlsRjRsVGwrdz09)
-  - Yangfeng Ji: TBD
+  - Yangfeng Ji: Friday 11:00 AM - 12:00 PM, Location: Rice 510 (in person) and [Zoom](https://virginia.zoom.us/j/98972681767?pwd=SVlNdUZaRHN1TmVRVWo5Wnd5bnEyZz09)
   - Wanyu Du: Tuesday 3:00 PM - 4:00 PM, Location: [Zoom](https://virginia.zoom.us/j/6076330189)
 - [Schedule](Schedule.md)
 - [Campuswire](https://campuswire.com/) for online discussion. By the time of our first class, students registered for this course should all receive an invitation from Campuswire. Please let the instructors know if you haven’t gotten one.
@@ -69,6 +69,8 @@ This course will include but not limit to the following contents:
   - 10 paper summaries (10%)
   - Final project (20%) 
   - In-class discussion (7%) + attendance (3%)
+
+Use the [template](https://github.com/uvanlp/iml-2022/blob/main/template.zip) for paper summary.
 
 ## 4. Additional Information
 - [Grading policy](grading.md)
