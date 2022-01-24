@@ -70,7 +70,7 @@ This course will include but not limit to the following contents:
   - Final project (20%) 
   - In-class discussion (7%) + attendance (3%)
 
-Use the [template](https://github.com/uvanlp/iml-2022/blob/main/template.zip) for paper summary.
+Use the [template](template.zip) for paper summary.
 
 ## 4. Additional Information
 - [Grading policy](grading.md)
