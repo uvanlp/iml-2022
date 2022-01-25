@@ -6,7 +6,7 @@
 
 #### Week 2: Jan. 25, 27
 - Topics: Introduction to interpretability, Interpretable generalized additive models (GAMs)
-- Course Materials:
+- Course Materials: [slides_1](slides/IML_2.pdf)
 
 #### Week 3: Feb. 1, 3
 - Topics: Introduction to neural networks
