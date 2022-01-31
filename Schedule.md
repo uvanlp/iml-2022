@@ -10,7 +10,7 @@
 
 #### Week 3: Feb. 1, 3
 - Topics: Introduction to neural networks
-- Course Materials:
+- Course Materials: [slides](slides/IML_4.pdf)
 
 #### Week 4: Feb. 8, 10
 - Topics: Post-hoc explanations for black-box models: perturbation-based methods
