@@ -14,7 +14,7 @@
 
 #### Week 4: Feb. 8, 10
 - Topics: Post-hoc explanations for black-box models: perturbation-based methods
-- Course Materials:
+- Course Materials: [slides](slides/IML_5.pdf)
 
 #### Week 5: Feb. 15, 17
 - Topics: Post-hoc explanations for black-box models: gradient/attention-based methods
