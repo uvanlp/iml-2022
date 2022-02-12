@@ -1,5 +1,6 @@
 - Programming assignment
-  Implementation of algorithms discussed in class, coding with Python 
+  - Implementation of algorithms discussed in class
+  - Coding with Python 
 
 - Paper presentation
   - 2/3 papers per class, 35/25 mins (25/20 mins presentation + 10/5 mins QA) per paper
