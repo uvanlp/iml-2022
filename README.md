@@ -70,6 +70,7 @@ This course will include but not limit to the following contents:
   - Final project (20%) 
   - In-class discussion (7%) + attendance (3%)
 
+- [Rubrics](rubrics.md)
 Use the [template](template.zip) for paper summary.
 
 ## 4. Additional Information
