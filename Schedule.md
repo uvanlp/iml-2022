@@ -18,7 +18,7 @@
 
 #### Week 5: Feb. 15, 17
 - Topics: Post-hoc explanations for black-box models: gradient/attention-based methods
-- Course Materials:
+- Course Materials: [slides](slides/IML_6.pdf)
 
 #### Week 6: Feb. 22, 24
 - Topics: Post-hoc explanations for black-box models: beyond feature-level
