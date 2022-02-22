@@ -22,7 +22,7 @@
 
 #### Week 6: Feb. 22, 24
 - Topics: Post-hoc explanations for black-box models: beyond feature-level
-- Course Materials:
+- Course Materials: [slides](slides/IML_7.pdf)
 
 #### Week 7: Mar. 1, 3
 - Topics: Improving neural network intrinsic interpretability
