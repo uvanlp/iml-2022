@@ -26,7 +26,7 @@
 
 #### Week 7: Mar. 1, 3
 - Topics: Improving neural network intrinsic interpretability
-- Course Materials:
+- Course Materials: [slides](slides/IML_8.pdf)
 
 #### Week 8: Spring Recess
 
