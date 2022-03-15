@@ -32,7 +32,7 @@
 
 #### Week 9: Mar. 15, 17
 - Topics: Building interpretable neural network models
-- Course Materials:
+- Course Materials: [slides](slides/IML_9.pdf)
 
 #### Week 10: Mar. 22, 24
 - Topics: Rationalized neural networks
