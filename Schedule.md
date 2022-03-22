@@ -36,7 +36,7 @@
 
 #### Week 10: Mar. 22, 24
 - Topics: Rationalized neural networks
-- Course Materials:
+- Course Materials: [slides](slides/IML_10.pdf)
 
 #### Week 11: Mar. 29, 31
 - Topics: Interpretation and human understanding
