@@ -47,7 +47,7 @@
 - Course Materials:
 
 #### Week 13: Apr. 12, 14
-- Topics: Connections with model performance, robustness, fairness
+- Topics: Interpretations for improving model performance, robustness, fairness
 - Course Materials:
 
 #### Week 14: Apr. 19, 21
