@@ -40,7 +40,7 @@
 
 #### Week 11: Mar. 29, 31
 - Topics: Interpretation and human understanding
-- Course Materials:
+- Course Materials: [slides](slides/IML_11.pdf)
 
 #### Week 12: Apr. 5, 7
 - Topics: Robust interpretations
