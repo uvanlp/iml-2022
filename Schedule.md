@@ -44,7 +44,7 @@
 
 #### Week 12: Apr. 5, 7
 - Topics: Robust interpretations
-- Course Materials:
+- Course Materials: [slides](slides/IML_12.pdf)
 
 #### Week 13: Apr. 12, 14
 - Topics: Interpretations for improving model performance, robustness, fairness
