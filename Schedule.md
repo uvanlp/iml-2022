@@ -48,7 +48,7 @@
 
 #### Week 13: Apr. 12, 14
 - Topics: Interpretations for improving model performance, robustness, fairness
-- Course Materials:
+- Course Materials: [slides](slides/IML_13.pdf)
 
 #### Week 14: Apr. 19, 21
 - Paper Discussion
