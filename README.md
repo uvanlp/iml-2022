@@ -51,7 +51,7 @@ This course will include but not limit to the following contents:
 - Textbook 
 	- Christoph Molnar, [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/), 2021
 	- Kush R. Varshney, [Trustworthy Machine Learning](http://trustworthymachinelearning.com/trustworthymachinelearning.pdf), 2021
-- Selected readings (More readings will be added)
+- Selected readings ([full reading list](https://docs.google.com/spreadsheets/d/1IVlYW_4rN2sMtR4lxstmyzDtKHX9sczSoysKl2JNb88/edit?usp=sharing))
 	- Du, Mengnan, Ninghao Liu, and Xia Hu. [Techniques for interpretable machine learning](https://arxiv.org/abs/1808.00033). Communications of the ACM 63.1 (2019): 68-77.
 	- Murdoch, W. James, et al. [Definitions, methods, and applications in interpretable machine learning](https://www.pnas.org/content/116/44/22071). Proceedings of the National Academy of Sciences 116.44 (2019): 22071-22080.
 	- Lipton, Zachary C. [The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery](https://dl.acm.org/doi/10.1145/3236386.3241340). Queue 16.3 (2018): 31-57.
